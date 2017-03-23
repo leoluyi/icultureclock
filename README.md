@@ -6,6 +6,6 @@ iculture clock
 
 start a simple python server
 
-```py
+```shell
 python -m SimpleHTTPServer
 ```
